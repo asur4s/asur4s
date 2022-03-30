@@ -2,7 +2,7 @@
 - :heart: Open Source.
 - :heart: Rust && JavaScript && WebAssembly
 
-### I'am Doing
+### I'am doing
 - :green_book:[Rustt](https://rusttt.com) member. Translating my first article.
 - :running:Marathon enthusiast. I ran 400km this year.
 
