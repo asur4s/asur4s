@@ -1,6 +1,6 @@
 ### I'am Asura
 - :heart: Open Source.
-- :heart: Rust && JavaScript && WebAssembly
+- :heart: Rust
 
 ### I'am doing
 - :green_book:[Rustt](https://rusttt.com) member. Translating my first article.
