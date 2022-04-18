@@ -1,5 +1,6 @@
 ### I'am Asura
-- :heart: Open Source.
+- :heart: Open Source
+- :heart: Digital Nomad
 - :heart: Rust
 
 ### I'am doing
